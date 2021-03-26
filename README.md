@@ -1,5 +1,4 @@
-name: Kui
-title: null
+site.title: null
 
 <b>李       岿</b>
 
